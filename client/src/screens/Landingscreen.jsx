@@ -12,7 +12,7 @@ const Landingscreen = () => {
     <div className="row landing">
       <div className="col-md-12 text-center">
         <h2 data-aos="zoom-in" style={{ color: "white", fontSize: "100px" }}>
-          Hotel Hub
+        JourneyBnB
         </h2>
         <h1 data-aos="zoom-out" style={{ color: "white" }}>
           "Where Luxury Meets Hospitality"
